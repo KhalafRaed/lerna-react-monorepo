@@ -21,5 +21,5 @@ Dillinger uses a number of open source projects to work properly:
 - Material UI
 - Axios
 
-## Repo Archeticture
+## Repo Architecture
 ![alt text](https://i.postimg.cc/5NtjQF1y/Lerna-1.png)
