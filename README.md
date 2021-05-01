@@ -11,8 +11,6 @@ Lerna is a tool that optimizes the workflow around managing multi-package reposi
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 - React
 - Lerna
 - Typescript
